@@ -160,6 +160,7 @@ body.mist {
 
 .search-box input {
     flex: 1;
+    min-width: 0;
     padding: 14px 18px;
     border: 1px solid var(--input-border);
     border-radius: 14px;
